@@ -1,0 +1,93 @@
+{
+  "": {
+    "name": "",
+    "file": "",
+    "description": "",
+    "arrosage": 0,
+    "co2": 0,
+    "o2": 0,
+    "zone": []
+  },
+  "monstera": {
+    "name": "monstera",
+    "file": "Configurateur_Monstera_v01.gltf",
+    "description": "",
+    "arrosage": 2,
+    "co2": 2,
+    "o2": 1,
+    "zone": [
+      "capot",
+      "portiere",
+      "toit",
+      "coffre"
+    ]
+  },
+  "sansevieria": {
+    "name": "sansevieria trifasciata",
+    "file": "",
+    "description": "",
+    "arrosage": 2,
+    "co2": 2,
+    "o2": 1,
+    "zone": [
+      "capot",
+      "toit"
+    ]
+  },
+  "gerbera": {
+    "name": "gerbera",
+    "file": "",
+    "description": "",
+    "arrosage": 3,
+    "co2": 2,
+    "o2": 2,
+    "zone": [
+      "toit",
+      "portiere",
+      "coffre"
+    ]
+  },
+  "bambou": {
+    "name": "bambou",
+    "file": "",
+    "description": "",
+    "arrosage": 0,
+    "co2": 0,
+    "o2": 0,
+    "zone": [
+      "toit"
+    ]
+  },
+  "chlorophytum": {
+    "name": "chlorophytum",
+    "file": "",
+    "description": "",
+    "arrosage": 2,
+    "co2": 3,
+    "o2": 0,
+    "zone": [
+      "portiere",
+      "coffre"
+    ]
+  },
+  "ficus": {
+    "name": "ficus roberta",
+    "file": "",
+    "description": "",
+    "arrosage": 0,
+    "co2": 0,
+    "o2": 3,
+    "zone": []
+  },
+  "paquerette": {
+    "name": "paquerette",
+    "file": "",
+    "description": "",
+    "arrosage": 0,
+    "co2": 0,
+    "o2": 0,
+    "zone": [
+      "capot"
+    ]
+  }
+}
