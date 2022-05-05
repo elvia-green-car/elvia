@@ -65,6 +65,10 @@ module.exports = {
                 {
                     from: path.resolve(__dirname, 'src', 'sass'), 
                     to: path.resolve(__dirname, 'dist', 'sass') 
+                },
+                {
+                    from: path.resolve(__dirname, 'src', 'assets'),
+                    to: path.resolve(__dirname, 'dist', 'assets')
                 }
              ]
         })
