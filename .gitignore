@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/src/assets/models
+/src/assets/textures
+
+.idea
+
+package-json.lock
+yarn.lock
