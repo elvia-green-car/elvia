@@ -71,6 +71,7 @@ module.exports = {
                     to: path.resolve(__dirname, 'dist', 'assets')
                 }
              ]
+             
         })
     ]
 }
